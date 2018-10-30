@@ -6051,11 +6051,13 @@ Irb,com.google.web.bindery.event.shared.UmbrellaException::UmbrellaException(Lja
 a,com.google.web.bindery.event.shared.UmbrellaException::causes,com.google.web.bindery.event.shared.UmbrellaException,causes,com/google/web/bindery/event/shared/UmbrellaException.java,62,-1
 Jrb,com.google.web.bindery.event.shared.UmbrellaException::makeMessage(Ljava/util/Set;)Ljava/lang/String;,com.google.web.bindery.event.shared.UmbrellaException,makeMessage,com/google/web/bindery/event/shared/UmbrellaException.java,39,0
 WebApp,,com.greyjan.webapp.WebApp,,com/greyjan/webapp/WebApp.java,9,-1
-NKb,com.greyjan.webapp.WebApp::$create(Lcom/greyjan/webapp/WebApp;)V,com.greyjan.webapp.WebApp,$create,com/greyjan/webapp/WebApp.java,14,0
-OKb,com.greyjan.webapp.WebApp::$render(Lcom/greyjan/webapp/WebApp;)V,com.greyjan.webapp.WebApp,$render,com/greyjan/webapp/WebApp.java,20,0
+NKb,com.greyjan.webapp.WebApp::$create(Lcom/greyjan/webapp/WebApp;)V,com.greyjan.webapp.WebApp,$create,com/greyjan/webapp/WebApp.java,15,0
+OKb,com.greyjan.webapp.WebApp::$render(Lcom/greyjan/webapp/WebApp;)V,com.greyjan.webapp.WebApp,$render,com/greyjan/webapp/WebApp.java,23,0
 PKb,com.greyjan.webapp.WebApp::WebApp() <init>,com.greyjan.webapp.WebApp,WebApp,com/greyjan/webapp/WebApp.java,9,0
 a,com.greyjan.webapp.WebApp::batch,com.greyjan.webapp.WebApp,batch,com/greyjan/webapp/WebApp.java,10,-1
 b,com.greyjan.webapp.WebApp::img,com.greyjan.webapp.WebApp,img,com/greyjan/webapp/WebApp.java,11,-1
+c,com.greyjan.webapp.WebApp::x,com.greyjan.webapp.WebApp,x,com/greyjan/webapp/WebApp.java,12,-1
+d,com.greyjan.webapp.WebApp::y,com.greyjan.webapp.WebApp,y,com/greyjan/webapp/WebApp.java,12,-1
 HtmlLauncher,,com.greyjan.webapp.client.HtmlLauncher,,com/greyjan/webapp/client/HtmlLauncher.java,8,-1
 QKb,com.greyjan.webapp.client.HtmlLauncher::HtmlLauncher() <init>,com.greyjan.webapp.client.HtmlLauncher,HtmlLauncher,com/greyjan/webapp/client/HtmlLauncher.java,8,0
 FilterOutputStream,,java.io.FilterOutputStream,,com/google/gwt/emul/java/io/FilterOutputStream.java,32,-1
